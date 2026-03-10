@@ -17,7 +17,7 @@
   
 </div>
 
-
+---
 ## ⚒️ Languages, Tools & Frameworks
 
 ### Programming Languages
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </p>
 
-
+---
 
 ## 🐍 Contribution Snake
 
