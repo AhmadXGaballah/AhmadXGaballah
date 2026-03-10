@@ -34,15 +34,15 @@
   <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-### Robotics / DevOps / Tools
+### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=linux,github,docker,vscode" />
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" />
 </p>
 
 ---
 
-## 🐍 Contribution 
+## 🐍 Contribution Pulse
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AhmadXGaballah/AhmadXGaballah/output/github-contribution-grid-snake.svg" alt="snake animation" />
