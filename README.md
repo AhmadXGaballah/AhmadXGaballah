@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=34&pause=1000&color=5D3FD3&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B;I'm+Ahmad+Gaballah;" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Passionate AI Engineer focused on computer vision, trustworthy GenAI, and robotics systems.</h3>
+<h3 align="center">Passionate AI Engineer specializing in computer vision, NLP, trustworthy GenAI, and robotics systems.</h3>
 
 
 
